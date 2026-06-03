@@ -1,0 +1,9 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+table, td, th {
+    border-collapse: collapse;
+    border: 11px solid black;
+    text-align: center;   
+    vertical-align: middle;   
+}
