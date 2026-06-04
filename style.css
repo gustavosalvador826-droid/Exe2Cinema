@@ -1,9 +1,23 @@
 body {
     font-family: 'Open Sans', sans-serif;
+    background-color: black;
 }
-table, td, th {
+th {
+    background-color: rebeccapurple;
     border-collapse: collapse;
-    border: 11px solid black;
+    border: 6px solid black ;
+    font-size: 20px;
+    color: gray;
+}
+td{
+    font-size: 15px;
+    border: 6px solid black ;
+    color: gray;
+}
+table{
+    color: white;
+    border-collapse: collapse;
+    border: 6px solid black ;
     text-align: center;   
-    vertical-align: middle;   
+    vertical-align: middle;
 }
